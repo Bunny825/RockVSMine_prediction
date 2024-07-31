@@ -30,7 +30,7 @@ The goal is to classify objects as either rocks or mines based on sonar signal r
 
 4. **Prediction and Evaluation**:
    - The trained model is used to predict the labels of the test dataset.
-   - Common evaluation metrics include accuracy, precision, recall, and F1 score.
+   - Common evaluation metrics include accuracy.
 
 ### **Conclusion**:
 The logistic regression model is evaluated based on the aforementioned metrics and plots. The model's performance can be analyzed to understand its strengths and weaknesses, and further improvements can be made, such as tuning hyperparameters, trying different algorithms, or engineering new features.
